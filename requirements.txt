@@ -1,0 +1,7 @@
+torch~=2.0.0
+torchnet~=0.0.4
+torch_scatter~=2.1.1
+numpy~=1.24.4
+pandas~=2.0.3
+geopandas~=0.13.2
+zhdate~=0.1
